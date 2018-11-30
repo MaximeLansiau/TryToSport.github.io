@@ -1,0 +1,204 @@
+body{
+	margin: 0;
+	background-color: #A4A4A4;
+	overflow-x: hidden;
+}
+#banner1 {
+	display: block;
+	background-color: #972626;
+	height: 30px;
+	width: 100%;
+}
+
+#menu{
+	min-width: 500px;
+	width: 100%;
+	height: 100px;
+	position: relative;
+	background-color: #312F2F;
+}
+#menu ul{
+	float: left;
+	left: 50%;
+	position: relative;
+	padding-top: 15px;
+	margin-left: -60px;
+}
+#menu ul li{
+	float: left;
+	list-style-type: none;
+	margin-left: 20px;
+	position: relative;
+	left: -50%;
+}
+#menu ul li a{
+	text-align: center;
+	padding-top: 8px;
+	text-decoration: none;
+	color: black;
+	display: inline-block;
+	width: 100px;
+	height: 30;
+	background-color: #424242;
+	font-weight: bold;
+	font-family: 'Oswald', sans-serif;
+	border: 1px solid black;
+}
+#menu ul li a:hover{
+	color: white;
+	background-color: #972626;
+	border-top: 5px solid #8A0808;
+	padding-top: 5px;
+}
+#banner2 {
+	display: block;
+	background-color: #972626;
+	height: 30px;
+	width: 100%;
+}
+
+.contenuprincipal {
+	text-align: center;
+	margin: 0px;
+}
+.h1-1{
+	font-size: 40px;
+	position: relative;
+	text-align: center;
+	font-family: "Black Han Sans", sans-serif;
+	text-decoration: underline overline #972626;
+}
+#footer {
+	text-align: center;
+	display: block;
+	background-color: #424242;
+	height: 50px;
+
+}
+#footer p{
+	color: black;
+	font-weight: bold;
+	position: relative;
+	top: 15px;
+	font-size: 20px;
+}
+
+#intro{
+	font-family: 'font-family: 'Oswald', sans-serif;';
+	font-size: 30px;
+	text-align: center;
+}
+#image1 {
+	background-image: url(images/Footingfemme.jpg);
+	background-position: center;
+	border: 3px solid black;
+}
+.acceuilp1 {
+	font-family: 'font-family: 'Oswald', sans-serif;';
+	font-size: 30px;
+	text-align: center;
+}
+#image2 {
+	background-image: url(images/hetf.jpg);
+	background-position: center;
+	background-repeat: no-repeat-y;
+	border: 3px solid black;
+}
+#h2-1{
+	font-size: 30px;
+	position: relative;
+	text-align: center;
+	font-family: "Black Han Sans", sans-serif;
+	text-decoration: underline overline #972626;
+}
+#h2-2{
+	font-size: 30px;
+	position: relative;
+	text-align: center;
+	font-family: "Black Han Sans", sans-serif;
+}
+
+#image3{
+	background-image: url(images/homme1.jpg);
+	background-position: center;
+	background-repeat: no-repeat-y;
+	border: 3px solid black;
+}
+td{
+	border: 1px solid black;
+	font-size: 25px;
+	padding: 10px;
+	text-align: center;
+}
+table {
+	border-collapse: collapse;
+	margin: auto;
+}
+
+.paire{
+	background-color: #9D3131;
+}
+
+.impaire{
+	background-color: #605D5D;
+}
+#entête {
+	background-color: #373535;
+}
+.seancesp1 {
+	font-family: 'Oswald', sans-serif;
+	font-size: 25px;
+	margin: auto;
+}
+#seance1 {
+	background-image: url(images/seance1.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	border: 3px solid black;
+	background-color: #424242;
+}
+#seance2 {
+	background-image: url(images/seance2.jpg);
+	background-position: center;
+	background-repeat: no-repeat-y;
+	border: 5px solid black;
+	background-color: #424242;
+}
+
+#seance3 {
+	background-image: url(images/seance3.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	border: 3px solid black;
+	background-color: #424242;
+}
+
+#seance4 {
+	background-image: url(images/seance4.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	border: 3px solid black;
+	background-color: #424242;
+}
+
+#seance5 {
+	background-image: url(images/seance5.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	border: 3px solid black;
+	background-color: #424242;
+}
+
+#liste1 {
+	font-size: 25px;
+	margin: auto;
+	text-align: center;
+}
+
+#seanceh1 {
+	font-size: 30px;
+	margin: auto;
+	text-align: center
+	font-family: "Black Han Sans", sans-serif;
+	text-decoration: underline #972626;	
+}
